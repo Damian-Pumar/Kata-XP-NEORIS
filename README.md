@@ -56,3 +56,7 @@ Numbers bigger than 1000 should be ignored, so adding 2 + 1001  = 2
 **CODE SUBMISSION:** Add the code to your own Github account and send us the link.
 
 Credits to [Roy Osherove](http://osherove.com/tdd-kata-1) for the original idea.
+
+### For security reasons, **NEORIS** public repositories should be closed. So we request to close this repository shortly
+
+
